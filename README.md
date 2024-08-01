@@ -1,5 +1,4 @@
 # GetMeTherapy - Appointment Scheduling Web Application
-![GetMeTherapy Logo](https://getmetherapy.com/images/logo.webp)
 
 This is a Web Application is a comprehensive solution designed to simplify and streamline the process of booking appointments with consultants, professionals, or service providers. This platform caters to both users seeking appointments and consultants managing their schedules, offering a seamless experience for all stakeholders involved. 
 
@@ -78,3 +77,4 @@ npm start
 open your web browser and visit http://localhost:3000 to access the web application.You can now use and test the application locally.
 
 ## Authors
+M abhijeet
